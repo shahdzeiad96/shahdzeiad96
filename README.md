@@ -12,7 +12,7 @@
 - 👩‍🏫 I'm currently a **Teaching Assistant at AXSOS Academy**, supporting students in web development and full-stack technologies  
 - 🌱 Learning **React.js** and exploring advanced frontend techniques  
 - 🧠 Interested in building useful, real-world applications  
-- 🛠 Working on: [BudgeX-app](https://github.com/shahdzeiad96/BudgeX-app)  
+- 🛠 Working on: [BudgeX-app](https://github.com/shahdzeiad96/budgex_pro/blob/main/README.md)  
 - 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/shahd-fakhouri-474b14119/)
 
 ---
