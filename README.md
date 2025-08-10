@@ -57,7 +57,7 @@
   <a href="https://linkedin.com/in/shahd-fakhouri-474b14119" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shahd.zeiad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/shahdzeiad96" target="_blank">
